@@ -40,3 +40,9 @@ conda activate my_venv
 ```bash 
 pip install -r requirements.txt
 ```
+
+### Steps 04-Download the Dataset from Kaggle
+
+```bash
+https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone
+```
